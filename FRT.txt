@@ -230,7 +230,7 @@
 
 		<nav id="FRRC" class="column">
             <ul>
-				<li><a href="index.html"><h3 id="RV">Partner</h3></a></li>
+				<li><a href="RV.html"><h3 id="RV">Partner</h3></a></li>
                 <p>
                     True friends will always have your back when it comes to finding you a partner. They will give you a lot of advice and tips to help you get that girl that you want so bad. They will also tell you when chasing after a girl is no longer worth it. Always consider the advice of people who care about you.
                 </p>
